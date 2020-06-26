@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CadastroViewController.swift
 //  WhatsApp
 //
 //  Created by Allef Sousa Santos on 25/06/20.
@@ -8,13 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CadastroViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
+    
 
 }
-
